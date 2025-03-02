@@ -14,8 +14,3 @@ This is a **C++ Expense Tracker** that helps users efficiently manage their dail
 - **Programming Language**: C++
 - **Concepts Used**: File Handling, Input/Output Operations, Basic Data Structures
 
-## 📂 Installation & Usage
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/Expense-Tracker.git
-   cd Expense-Tracker
